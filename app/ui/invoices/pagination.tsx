@@ -85,8 +85,7 @@ function PaginationNumber({
 
 function PaginationArrow({
   href,
-  direction,
-  isDisabled,
+  direction,  isDisabled,
 }: {
   href: string;
   direction: 'left' | 'right';
